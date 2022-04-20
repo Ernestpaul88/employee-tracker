@@ -28,7 +28,7 @@ A node command-line application/Content Management System used to manage a compa
 - Quit MySQL Shell: run 'quit;' from the root directory of the project
 - Start Project: run 'node index' from the root directory.
 
-Checkout the video to see a full demonstration.
+Checkout the [video](https://drive.google.com/file/d/1lJn-NO6WhJVLHuBWWex5dW5GpLMiquLw/view) to see a full demonstration.
 
 ## License:
 
